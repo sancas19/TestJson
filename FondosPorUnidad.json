@@ -1,0 +1,6002 @@
+[
+  {
+    "estado": "Aprobado",
+    "total": 1525.02,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "12/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3434.95,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "24/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3590.86,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1009.83,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "06/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1670.14,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "30/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1476.39,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "03/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1617.76,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "29/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1394.54,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "21/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3693.76,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2270.4,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "14/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1232.82,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "09/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3141.32,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1529.08,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "22/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1112.84,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "15/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3783.68,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "04/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1617.38,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "05/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2878.2,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "05/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1264.55,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1899.73,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3230.46,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "19/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2280.18,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2532.64,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "11/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1563.93,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "02/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1918.7,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1446.08,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2530.17,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "22/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1481.31,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "05/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2100.24,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "17/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1414.73,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "10/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2568.63,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3181.92,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "18/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3004.1,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "29/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2694.39,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "23/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3656.74,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1795.75,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2110,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "09/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2486.3,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "14/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3780.1,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2678.59,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2107.29,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "22/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2860.68,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "06/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1473.14,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "19/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2700.08,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3833.71,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "20/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3047.54,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "05/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3819.08,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "13/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3684.51,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "26/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3146.84,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "02/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1698.14,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "21/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1583.68,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "11/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2928.51,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "16/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1520.82,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "26/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1246.26,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "02/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2653.75,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "07/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3991.29,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "13/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3415.56,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2069.67,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "26/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3230.01,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "17/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3365.07,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "28/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3548.33,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "02/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3152.1,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "04/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2554.85,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "04/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3334.46,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1277.2,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3559.99,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "18/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3263.79,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "19/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2043.88,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1559.65,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "05/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2882.05,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "25/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1618.57,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "13/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2920.87,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "10/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2734.43,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "09/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1977.71,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "24/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2737.81,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "03/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1501.72,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "26/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3167.65,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "03/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2846.91,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "26/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2971.47,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "31/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2944.06,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "24/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2954.34,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1561.29,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2956.81,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "22/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2222.13,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "22/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3372.48,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "11/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3920.54,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "23/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3476.22,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2180.32,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "27/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2362.16,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3911.88,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "20/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3010.53,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3619.7,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "22/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3366.23,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "18/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3647.24,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2934.6,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "12/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1949.99,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2349.15,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3431.92,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "15/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1471.39,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2666.35,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "29/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1963.95,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "18/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2520.16,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "21/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3453.56,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "06/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1876.51,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "13/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1163.13,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3088.59,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "25/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3875.97,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3616.11,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "03/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2782.59,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "09/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1564.78,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "08/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1676.74,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3404.62,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "25/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3439.67,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "13/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2941.26,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "23/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1167.16,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3727.68,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1728.66,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3522.69,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2261.47,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "05/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3693.31,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "16/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2248.12,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "25/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3331.05,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "08/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2572.58,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "06/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3238.33,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "31/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3032.29,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "16/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2240.95,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "26/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2377.75,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "07/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1445.35,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3347.93,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "12/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1578.3,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1176.41,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "17/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3848.1,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "19/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3484.2,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3336.3,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "25/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1620.11,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "10/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3872.97,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3155.92,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "01/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3974.69,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "19/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3186.4,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "16/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3278.82,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "28/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2217.8,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "12/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1395.24,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "18/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2847.92,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1568.73,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "15/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1506.87,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "06/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1039.08,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "20/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3758.02,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2084.01,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "27/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1182.66,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "16/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3377.85,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "06/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2047.15,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "25/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1034.91,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2133.23,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "29/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3281.38,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3108.89,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3805.02,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "30/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3563.47,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "11/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3562.21,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "18/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1360.75,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "24/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3808.7,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "05/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2652.45,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1404.89,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "16/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1428.51,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "09/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3198.13,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "02/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2767.41,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "17/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3156.37,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "29/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3837.9,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1683.78,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "13/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3119.44,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "08/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1336.4,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "12/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3069.44,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2777.51,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "15/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1636.53,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "07/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1684.39,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "11/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3821.88,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1956.84,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2289.47,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "15/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1415.72,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3106.02,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "06/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1534.15,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3976.11,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "06/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1964.63,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "15/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1044.11,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "20/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3716.82,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "15/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2533.9,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "30/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2244.03,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "14/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3729.71,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2712.43,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2626.78,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "26/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1247.36,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "21/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1431.01,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "07/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2850.33,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "04/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3384.72,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "12/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3736,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1546.4,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "25/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3643.54,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "23/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3907.46,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "12/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1773.98,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "17/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2381.01,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "21/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2859.03,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "06/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3112.77,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "24/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2863.93,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "12/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3579.46,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "01/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1737.54,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "27/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1407.97,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3651.82,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "22/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1796.15,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "30/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3311.01,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2661.68,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "21/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1782.95,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "17/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2097.69,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1014.74,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "29/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2092.39,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3133.76,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "09/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2135.11,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "18/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3303.81,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3267.19,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2469.66,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "23/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1710.09,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "26/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1075.09,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1955.81,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2760.42,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "11/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3534.59,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2349.27,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "05/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1827.27,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1513.94,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3558.94,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3296.19,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "08/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3349.94,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "07/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1501.84,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "30/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1235.36,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "01/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1291.54,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1511.69,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "04/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3493.87,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "16/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1770.73,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "22/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3531.58,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2276.25,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "21/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3233.9,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "15/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2491.43,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3472.75,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "10/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2167.19,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "07/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2020.41,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "20/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2809.96,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "10/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2527.29,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3224.85,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "02/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2085.64,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "17/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2040.19,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "18/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3863.23,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "28/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3342.69,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2576.07,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1012.77,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "19/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1519.94,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "06/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2376.4,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "05/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1756.27,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "28/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3914.44,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "25/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3931.21,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2530.3,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1131.47,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "11/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1505.4,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "29/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3061.61,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "22/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1414.85,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "24/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3169.52,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "19/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3424.88,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "07/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1856.18,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1712.07,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "06/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1644.72,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1955.72,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1756.72,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2946.36,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "20/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3308.58,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "23/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1348.23,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "29/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1367.18,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "08/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2374.02,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "20/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1180.51,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "29/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2326.95,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3302.46,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3400.46,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "12/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3684.57,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "04/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2141.93,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "28/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3840.06,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "09/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1107.58,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "24/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1053.25,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "01/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3803.01,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "27/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2078.58,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "04/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2190.08,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "18/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2917.85,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3106.31,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "08/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2866.58,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "23/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2641.4,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "26/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1793.3,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "20/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3747.34,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "02/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1802.31,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1049.02,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "02/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1096.6,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "03/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1243.09,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1293.71,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1977.82,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3798.54,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "18/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3415.66,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "18/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1859.37,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "17/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1483.76,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2530.48,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "02/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2514.29,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1492.41,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3711.96,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1126.93,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "21/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3633.9,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "15/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3247.52,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "28/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1240.86,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "17/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1086.22,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "29/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3460.04,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3091.73,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "29/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3192.41,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "18/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1369.24,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3011.65,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2659.34,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "27/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3259.93,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "30/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3229.34,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "07/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2663.16,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "25/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2337.8,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "08/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3753.43,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "19/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1582.77,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "05/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1231.1,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "02/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2263.09,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "08/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2569.56,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2347.9,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "13/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2396.83,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "08/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2501.39,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "10/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2708.61,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "12/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2261.01,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "10/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2367.77,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "05/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3789.4,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "10/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3673.48,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "10/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1302.62,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "04/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3989.71,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3106.72,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "29/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3047.76,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "17/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1021.54,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2087.84,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "13/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3643.49,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2656.91,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "05/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2412.96,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "12/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2194.02,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "05/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1557.21,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "06/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3920.51,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "23/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1270.58,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "28/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1968.55,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "24/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2016.98,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "13/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1511.75,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "20/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3931.52,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "24/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1016.47,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "05/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1908.54,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "16/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2398.97,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "23/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3317.11,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1889.95,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "16/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3355.18,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3948.05,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "03/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2778.65,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2246.99,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "16/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1791.42,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "17/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1153.08,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3180.62,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "26/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3531.09,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "23/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1390.41,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "03/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1136.27,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "23/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1685.52,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "12/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1099.14,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "10/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3629.09,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2152.77,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "17/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2647.54,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "30/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1080.28,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "27/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1268.82,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "13/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1913.48,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "16/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3233.94,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "14/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1513.77,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "12/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1639.84,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1596.93,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "22/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2531.01,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "22/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2018.57,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "02/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3927.3,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1651.7,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "18/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2671.2,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "05/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3161.02,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "29/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1373.25,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1171.14,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "11/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3330.42,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "27/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3568.39,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "01/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2910.54,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "28/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3314.11,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "13/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1148.48,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "19/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2079.46,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "30/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1076.92,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "26/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3418.26,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "09/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2299.34,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3122.71,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "25/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2286.61,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "27/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2469.29,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "15/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1763.92,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "21/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1440.45,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "22/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2255.29,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2428.41,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "30/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2637.04,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "20/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1396.82,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "04/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1125.96,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2040.57,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "29/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2572.58,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3584.09,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "06/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3328.03,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1161.44,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "05/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2687.67,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1023.34,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "06/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1306.44,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "30/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1018.77,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "04/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3171.34,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2943.76,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "21/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1093.36,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "31/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1517.74,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3420.51,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "24/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1671.03,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "30/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3837.79,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1303.12,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2401.39,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "13/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2924.77,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "03/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3858.14,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "21/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2879.26,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "14/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3258.42,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "16/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1131.13,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1046.35,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3378.91,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "07/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2106.48,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "09/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2275.64,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "01/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2064.59,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "03/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1540.15,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "05/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1887.61,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "28/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1263.5,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "22/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2175.36,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "31/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1344.04,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "05/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1260.39,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "24/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3799.04,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2232.77,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "02/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2703.93,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1174.12,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "01/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1157.71,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "06/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3857.52,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "23/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2280.16,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "02/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1920.57,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "28/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1155.19,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "21/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1883.33,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1083.61,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "26/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2855.9,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "20/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2377.7,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "22/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1834.31,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "06/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2665.98,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "15/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1003.13,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "26/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3858.05,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "20/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3710.4,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "11/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3086.65,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1368.16,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2311.11,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "15/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2395.11,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "06/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1655.71,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "04/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2471.4,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "25/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2113.93,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2255.18,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2687.04,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2930.11,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "05/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1733.61,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "29/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2806.82,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2520.47,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "08/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3318.27,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "30/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3202.8,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "26/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2250.22,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2604.11,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "15/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2004.31,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3698.67,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2457.95,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "08/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2471.02,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3903.33,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "03/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1646.05,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "18/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2850.46,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "02/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1403.25,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "26/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2698.7,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "12/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2612.73,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "21/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2960.58,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "13/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1909.1,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "07/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2433.34,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "26/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2611.44,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "23/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1245.9,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "19/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3130.07,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "03/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1109.14,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "03/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3028.96,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3973.42,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "23/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2086.32,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "22/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1791.89,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2378.92,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3922.41,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3885.07,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "24/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1897.8,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "24/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2996.48,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2733.61,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "14/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2947.93,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "24/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3512.76,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3294.52,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "18/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3250.4,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "04/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1642.66,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "04/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3150.47,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "12/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1894.38,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "17/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2212.48,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "18/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2386.08,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2362.17,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "07/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2214.47,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "22/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3988.24,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3641.48,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "11/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3386.04,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "28/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2491.09,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "13/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1684.66,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1103.31,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "28/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2967.16,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "24/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1931.6,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "07/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2031.97,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "08/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2384.66,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1198.62,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "09/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1811.75,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2490.76,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "03/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3230.86,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "26/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1565.01,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "26/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1991.89,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "04/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1140.76,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "20/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2768.9,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "31/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3214.79,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "04/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3336.17,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1046.53,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "15/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2056.73,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3256.61,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "08/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1145.75,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "07/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2541.54,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "17/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3345.32,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "10/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2115.55,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2708.04,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "20/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2066.5,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "16/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3103.77,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2853.57,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "10/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3363.87,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "04/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1116.49,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "06/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3007.63,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3536.02,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "28/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2913.26,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1329.04,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "15/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2036.87,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "15/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3944.34,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "25/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1692.41,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3111.04,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "18/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2253.27,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "08/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1607.73,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "12/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1192.82,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "01/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3345.33,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "19/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3695.07,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "27/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1642.5,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "24/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2995.42,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3058.9,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1461.48,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3125.99,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "14/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2530.88,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "10/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3429.84,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "25/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3235.06,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "25/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2208.45,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "22/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3245.64,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2059.87,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "16/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2415.18,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "12/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3817.31,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "14/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3764.11,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "05/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3861.19,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "17/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2526.17,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1278.02,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "15/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1268.78,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3657.35,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2760.58,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "23/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2431.97,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "26/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3778.61,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "01/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1852.54,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "05/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3966.51,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1934.54,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3635.95,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3931.22,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "08/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3056.99,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1109.68,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "15/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3246.48,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2012.58,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1206.32,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1931.92,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1547.37,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "18/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1625.9,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "07/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2459.51,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "15/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2197.37,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "30/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1045.91,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1968.25,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "26/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3693.38,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "03/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2202.45,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "13/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1468.62,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1312.29,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "30/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1861.47,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "20/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1791.59,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "11/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3730.8,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2967.61,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3396.68,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2993.16,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "30/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2021.03,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "18/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3082.67,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "15/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1385.01,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "08/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2672.86,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "22/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2153.63,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2431.63,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "27/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2713.14,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "18/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2097.8,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2244.99,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3025.66,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1254.46,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "04/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3413.48,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "29/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2234.47,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "18/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3773.36,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "07/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2370.8,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1032.84,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "20/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3101.51,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "17/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3493.56,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1232.22,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "06/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1607.66,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1029.62,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1476.17,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "30/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1439.24,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "22/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1417.37,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2393.05,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3989.4,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3237.69,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "16/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2087.66,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1795.47,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "05/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2771.94,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "03/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2126.47,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "07/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3984.97,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "11/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3442.41,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "21/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3191.87,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "30/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1439.5,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "14/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3214.01,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "17/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1089.5,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "14/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3085.01,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "18/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3959.09,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3684.05,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "05/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2038.66,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "18/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1002.12,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "06/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1325.76,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "16/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1308.34,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "11/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1810.66,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "28/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2106.66,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3547,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "04/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1386.58,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1105.96,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "30/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3448.91,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "25/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3905.6,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3892.88,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "11/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2413.02,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "24/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3433.93,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3821.35,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "03/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2106.46,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "11/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1066.36,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "15/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3117.43,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "18/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3274.92,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "30/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1760.29,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "02/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2063.85,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "25/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2007.09,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2521.92,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3090.74,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "07/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2244.48,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "14/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2084.75,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3732.35,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "18/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2159.93,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3837.41,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "06/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2428.07,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "06/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2213.99,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "17/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1104.39,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "03/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1431.4,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3616.88,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1503.17,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "23/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2793.97,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3072.78,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "30/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3248.48,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "18/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3284.58,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "01/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1135.05,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2655.07,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "01/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1334.98,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "28/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1431.26,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "04/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3273.26,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "06/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2520.91,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3829.48,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2903.39,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "17/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2051.87,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "17/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2412.69,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1743.51,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2569.1,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2314.49,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "25/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3659.98,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "22/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2125.76,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "21/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1095.27,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "30/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3832.66,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "09/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2809.87,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1363.41,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "05/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3955.9,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2307.78,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "03/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3290.48,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1941.34,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "23/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2098.78,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2315.94,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2929.6,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2202.85,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "13/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1171.62,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "25/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1587.54,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "20/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2564.82,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "22/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1915.14,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2428.97,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "24/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3065.4,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1227.79,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "02/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3321.39,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2556.39,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "29/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1386.24,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "22/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2945.76,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "04/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2035.41,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "31/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3125.52,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "12/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2966.96,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "21/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3158.09,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2087.6,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "25/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3726.86,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2619.99,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "04/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2790.82,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "22/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1995.89,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3704.7,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "26/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1572.76,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3878.53,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "24/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3268.71,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3888.19,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3586.8,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "19/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2659.78,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "06/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1547.63,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "17/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3232.37,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "26/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3397.49,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2027.74,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "26/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3645.43,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2069.98,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "11/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2288.05,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "14/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1395.52,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "23/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1119.46,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3730.92,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3153.98,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "05/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1186.82,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1227.35,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3073.26,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "31/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2878.97,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1785.29,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2380.28,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2830.84,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "29/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2558.78,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "18/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3689.35,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "14/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3244.52,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1428.35,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "12/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1344.65,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3230.48,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "19/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3035.94,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1530.93,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "10/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3420.94,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "03/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3840.82,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "27/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3615.64,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "29/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3108.06,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "12/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3744.74,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "11/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1940.78,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "20/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1286.1,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3829.94,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "27/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3523.1,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "12/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2909.84,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "24/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3830.91,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1793.03,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3314.75,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "30/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1535.68,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1182.51,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "02/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2968.32,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "23/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2841.53,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1656.15,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "30/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1550.69,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "14/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2544.57,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "10/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1306.22,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3009.35,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "14/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3186.86,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "14/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2545.93,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1119.04,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1533.19,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "31/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1865.73,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1224.27,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "10/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1164.47,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "21/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1654.92,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1569.09,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "25/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3426.67,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "19/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3195.03,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "01/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3260.67,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "29/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3682.21,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "30/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2905.39,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "22/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3565.73,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "29/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1600.09,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "09/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3351.9,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "22/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3641.88,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2153.85,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3762.77,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1973.53,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "06/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1428.92,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3391.58,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "27/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1840.41,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2705.04,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2130.64,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1567.56,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "18/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1088.32,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1449.83,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1739.91,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "20/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3960.34,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "19/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1845.19,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "05/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3965.96,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "05/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3041.04,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "25/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3709.37,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "06/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3395.09,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3128.62,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "31/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3890.76,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "10/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3515.82,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "13/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1573.5,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "13/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1301.21,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1574.15,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "24/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1953.3,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1228.41,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3103.89,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2701.54,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "08/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2809.32,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "13/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2224.83,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "20/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1428.32,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "19/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1770.63,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "05/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2302.17,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "29/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1303.22,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "16/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3594.52,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2415.19,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "13/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2560.22,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1749.08,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "12/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2263.7,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2039.1,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3541.11,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "03/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2310.44,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "12/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1181.65,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2594.78,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "24/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3660.28,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "23/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1572.79,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "25/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2232.28,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "19/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1107.96,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "23/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2657.3,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "31/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1509.18,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "23/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3288.75,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "11/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3716.02,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "17/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2756,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "25/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1443.43,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "11/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1971.61,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "07/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3824.21,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "12/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2865.36,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "26/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1175.32,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "21/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2806.03,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "20/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3108.99,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2895.17,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "30/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2172.93,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "26/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2259,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "06/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3503.31,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "02/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1598.81,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "03/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2716.42,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1558.27,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2829.68,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "14/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2029.17,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "23/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1303.88,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "16/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2761.68,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "14/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1579.85,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "12/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1249.49,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "30/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1224.44,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "16/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1464.86,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "23/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2447.19,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2114.45,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "03/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2290.02,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "25/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3892.83,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "10/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2461.53,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "23/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2092.97,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2642.43,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "04/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1810.1,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "14/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1062.28,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "27/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2747.36,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "07/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1229.4,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "05/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3517,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "21/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2287.07,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "21/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2024.84,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "07/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2305.66,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3586.09,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "22/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3616.61,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "12/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1220.06,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2709.94,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2036.22,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "15/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2762.26,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "12/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3857.87,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "21/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3822.58,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "28/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2197.06,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "22/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2223.01,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1979.09,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "18/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2680.8,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "24/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3284.54,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2247.87,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3388.28,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "24/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3511.4,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2226.15,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "04/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2321.32,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "01/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1993.41,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "22/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2106.64,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1640.03,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "14/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3973.99,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "13/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1027.72,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "29/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2813.19,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "20/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3836.43,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "04/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2847.32,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "13/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3545.16,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "06/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2134.14,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1557.82,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "25/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3156.45,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "09/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2863.43,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "18/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1902.47,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "21/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3339.77,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2184.09,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "12/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3988.55,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "24/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1905.34,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "29/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2580.89,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "04/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2982.95,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "14/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3795.69,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "13/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1825.31,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "11/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3602.78,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "14/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3509.93,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "20/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3321.27,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "31/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3534.12,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "18/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1258.25,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1189.62,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "05/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1941.95,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "20/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2860.19,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "28/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1167.83,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3485.58,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2798.69,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1628.91,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "06/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1185.62,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "23/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3776.79,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "20/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1528.69,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "08/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2000.96,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "26/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1851.38,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "20/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2183.22,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2167.53,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "05/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3520.31,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3724.03,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "26/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2519.94,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "14/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1319.12,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3547.63,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "24/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1404.89,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1466.8,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "28/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2751.77,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "17/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1946.44,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "13/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3395.28,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "07/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1301.9,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "06/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3552.58,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "13/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2455.25,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1866.98,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "09/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2599.04,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1421.81,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "27/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3423.39,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "04/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1237.52,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3927.37,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "14/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1387.52,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "28/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1401.18,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "14/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3474.64,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "11/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1856.25,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "29/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2987.66,
+    "unidad": "UNIDAD DE ASESORÍA JURÍDICA",
+    "fecha": "15/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1011.14,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "19/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2800.04,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "13/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3374.63,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "23/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3768.35,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "21/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1967.61,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1154.23,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "17/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1128.47,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "04/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3436.41,
+    "unidad": "UNIDAD DE PLANIFICACION",
+    "fecha": "08/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3356.7,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "04/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2747.95,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "21/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1967.46,
+    "unidad": "GERENCIA FINANCIERA",
+    "fecha": "28/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1791.19,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3744.44,
+    "unidad": "UNIDAD DE COMUNICACIONES",
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1416.97,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "28/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1466.69,
+    "unidad": "GERENCIA INFORMÁTICA",
+    "fecha": "07/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1855.68,
+    "unidad": "UNIDAD DE ACCESO A LA INFORMACIÓN",
+    "fecha": "06/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1365.53,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "20/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3416.87,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "07/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3703.83,
+    "unidad": "UNIDAD DE PROYECTOS INSTITUCIONALES",
+    "fecha": "04/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1887.11,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3825.19,
+    "unidad": "DIRECCIÓN SUPERIOR",
+    "fecha": "05/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2099.19,
+    "unidad": "GERENCIA ADMINISTRATIVA",
+    "fecha": "16/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2611.77,
+    "unidad": "UNIDAD DE ADQUISICIONES Y CONTRATACIONES INSTITUCIONAL",
+    "fecha": "01/09/2021"
+  }
+]

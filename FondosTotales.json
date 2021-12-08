@@ -1,0 +1,5002 @@
+[
+  {
+    "estado": "Rechazado",
+    "total": 3916.86,
+    "fecha": "16/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2876.51,
+    "fecha": "21/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2413.9,
+    "fecha": "02/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2052.37,
+    "fecha": "21/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3074.98,
+    "fecha": "18/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3956.86,
+    "fecha": "25/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1866.28,
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2611.67,
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2979.63,
+    "fecha": "16/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2291.24,
+    "fecha": "13/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2915.52,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3555.67,
+    "fecha": "10/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2867.14,
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2309.24,
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2998.36,
+    "fecha": "25/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2406.17,
+    "fecha": "08/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1338.37,
+    "fecha": "06/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3450.95,
+    "fecha": "10/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1451.4,
+    "fecha": "10/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1837.6,
+    "fecha": "31/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1261.69,
+    "fecha": "16/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2306.49,
+    "fecha": "21/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1094.57,
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2118.65,
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3729.69,
+    "fecha": "11/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2122.54,
+    "fecha": "29/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1494.57,
+    "fecha": "28/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2258.45,
+    "fecha": "02/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3674.5,
+    "fecha": "15/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2721.79,
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1960.74,
+    "fecha": "31/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3795.04,
+    "fecha": "20/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2794.07,
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1912.03,
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3898.61,
+    "fecha": "27/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3916.87,
+    "fecha": "14/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2624.96,
+    "fecha": "15/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3259.38,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1651.32,
+    "fecha": "19/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2063.63,
+    "fecha": "17/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1605.06,
+    "fecha": "08/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2034.83,
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3395.87,
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2198.08,
+    "fecha": "22/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2543.84,
+    "fecha": "17/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1382.36,
+    "fecha": "09/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3329.69,
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3926.68,
+    "fecha": "15/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1645.75,
+    "fecha": "07/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1818.13,
+    "fecha": "29/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2337.13,
+    "fecha": "05/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1166.06,
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3816.82,
+    "fecha": "25/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3232.04,
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1002.79,
+    "fecha": "30/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1084.45,
+    "fecha": "24/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2511.15,
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2448.77,
+    "fecha": "03/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2400.51,
+    "fecha": "05/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1775.15,
+    "fecha": "25/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1823.61,
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1637.5,
+    "fecha": "27/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2020.07,
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1690.61,
+    "fecha": "03/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3813.45,
+    "fecha": "29/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1945.85,
+    "fecha": "04/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3990.94,
+    "fecha": "19/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2388.71,
+    "fecha": "25/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2493.05,
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2978.74,
+    "fecha": "11/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2424.94,
+    "fecha": "08/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1714.16,
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3898.38,
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3810.98,
+    "fecha": "30/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3593.62,
+    "fecha": "05/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3065.07,
+    "fecha": "06/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1260.41,
+    "fecha": "23/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1069.58,
+    "fecha": "01/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1422.99,
+    "fecha": "27/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3319.66,
+    "fecha": "10/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2806.62,
+    "fecha": "06/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3517.25,
+    "fecha": "03/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2990.02,
+    "fecha": "30/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3697.43,
+    "fecha": "16/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3679.54,
+    "fecha": "04/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2556.46,
+    "fecha": "22/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2761.84,
+    "fecha": "08/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3722.95,
+    "fecha": "29/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2181.76,
+    "fecha": "08/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2496.89,
+    "fecha": "21/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1711.61,
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1121.72,
+    "fecha": "16/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1686.83,
+    "fecha": "07/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3326.32,
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2031.98,
+    "fecha": "30/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3625.19,
+    "fecha": "06/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2586.63,
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1468.54,
+    "fecha": "12/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1502.79,
+    "fecha": "07/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2574.3,
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1862.86,
+    "fecha": "09/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1635.3,
+    "fecha": "30/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1332.1,
+    "fecha": "18/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2836.77,
+    "fecha": "27/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3107.38,
+    "fecha": "31/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1169.9,
+    "fecha": "20/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3343.24,
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2820.08,
+    "fecha": "04/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3515.41,
+    "fecha": "18/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1293.79,
+    "fecha": "15/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3910.91,
+    "fecha": "02/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1614.54,
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1061.39,
+    "fecha": "10/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2943.2,
+    "fecha": "20/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2791.06,
+    "fecha": "10/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1091.17,
+    "fecha": "21/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1834.88,
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3319.73,
+    "fecha": "16/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1222.27,
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3300.18,
+    "fecha": "06/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3190.29,
+    "fecha": "01/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2345.32,
+    "fecha": "20/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1823.06,
+    "fecha": "18/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3632.15,
+    "fecha": "19/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2173.55,
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3115.2,
+    "fecha": "14/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1052.57,
+    "fecha": "05/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3067.06,
+    "fecha": "13/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1398.86,
+    "fecha": "13/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1069.39,
+    "fecha": "01/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3060,
+    "fecha": "16/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2756.5,
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2459.42,
+    "fecha": "31/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2920.49,
+    "fecha": "17/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3969.86,
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2245.29,
+    "fecha": "13/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3940.11,
+    "fecha": "11/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2633.47,
+    "fecha": "22/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2639.17,
+    "fecha": "22/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1003.74,
+    "fecha": "14/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1046.66,
+    "fecha": "30/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3073.26,
+    "fecha": "05/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1035.72,
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3936.08,
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3577.15,
+    "fecha": "11/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2530.66,
+    "fecha": "28/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3087.25,
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2308.05,
+    "fecha": "22/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2732.43,
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1646.17,
+    "fecha": "12/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3378.07,
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3095.81,
+    "fecha": "14/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1074.53,
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3878.68,
+    "fecha": "12/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2772.72,
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2316.33,
+    "fecha": "04/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3499.32,
+    "fecha": "04/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3662.26,
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1018.26,
+    "fecha": "27/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3373.44,
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2140.13,
+    "fecha": "07/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2078.2,
+    "fecha": "16/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3958.22,
+    "fecha": "03/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2940.51,
+    "fecha": "12/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3051.34,
+    "fecha": "22/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2342.44,
+    "fecha": "30/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2609.03,
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1006.64,
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1234.59,
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2700.07,
+    "fecha": "17/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3146.42,
+    "fecha": "20/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3075.58,
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1389.19,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1942.42,
+    "fecha": "21/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3704.87,
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1730.99,
+    "fecha": "26/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2346,
+    "fecha": "24/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1729.13,
+    "fecha": "15/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2280.47,
+    "fecha": "11/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1289.65,
+    "fecha": "23/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3938.75,
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2550.25,
+    "fecha": "28/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2328.79,
+    "fecha": "29/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3044.22,
+    "fecha": "26/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1039.76,
+    "fecha": "04/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3006.84,
+    "fecha": "15/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2798.41,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1172.61,
+    "fecha": "27/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2993.74,
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1867.01,
+    "fecha": "11/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3380.94,
+    "fecha": "03/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2540.68,
+    "fecha": "11/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3695.86,
+    "fecha": "13/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1553.34,
+    "fecha": "18/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1131.05,
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2531.09,
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1739.26,
+    "fecha": "01/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3589.92,
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1140.04,
+    "fecha": "07/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1041.52,
+    "fecha": "28/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2623.32,
+    "fecha": "25/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3637.49,
+    "fecha": "15/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1868.78,
+    "fecha": "04/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2393.26,
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3489.38,
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2139.87,
+    "fecha": "27/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3753.37,
+    "fecha": "08/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1855.25,
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1457.99,
+    "fecha": "12/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3994.44,
+    "fecha": "16/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2528.46,
+    "fecha": "29/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3552.38,
+    "fecha": "06/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1819.71,
+    "fecha": "19/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3354.66,
+    "fecha": "06/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2269.55,
+    "fecha": "18/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3940.36,
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1554.03,
+    "fecha": "28/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2971.25,
+    "fecha": "15/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1276.68,
+    "fecha": "27/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1447.42,
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1236.11,
+    "fecha": "07/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3232.32,
+    "fecha": "07/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1297.7,
+    "fecha": "11/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2164.97,
+    "fecha": "03/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2431.76,
+    "fecha": "08/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3088.99,
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2678.32,
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3832.62,
+    "fecha": "26/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1844.67,
+    "fecha": "01/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3378.97,
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1567.9,
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1210.24,
+    "fecha": "24/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3435.15,
+    "fecha": "27/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2270.47,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1074.88,
+    "fecha": "14/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3064.75,
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3536.05,
+    "fecha": "18/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2523.26,
+    "fecha": "23/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1340.38,
+    "fecha": "17/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1999.41,
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1654.69,
+    "fecha": "10/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3130.94,
+    "fecha": "31/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1801.55,
+    "fecha": "15/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3033.19,
+    "fecha": "23/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3192.3,
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3765.27,
+    "fecha": "24/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2447.78,
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1402,
+    "fecha": "16/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2050.54,
+    "fecha": "15/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2670.02,
+    "fecha": "12/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3438.55,
+    "fecha": "05/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3149.84,
+    "fecha": "21/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2564.77,
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1580.88,
+    "fecha": "27/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1865.51,
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1978.35,
+    "fecha": "10/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1679,
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3914.97,
+    "fecha": "02/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3647.73,
+    "fecha": "08/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1749.52,
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2179.89,
+    "fecha": "28/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2721.67,
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2141.92,
+    "fecha": "15/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2816.67,
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2713.96,
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2474.28,
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1945.29,
+    "fecha": "16/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2586.4,
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2343.77,
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1093.36,
+    "fecha": "17/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1372.74,
+    "fecha": "16/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2490.38,
+    "fecha": "28/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3834.95,
+    "fecha": "24/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1244.7,
+    "fecha": "28/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3218.27,
+    "fecha": "17/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3880.9,
+    "fecha": "21/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1687.51,
+    "fecha": "02/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2576.47,
+    "fecha": "16/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3952.51,
+    "fecha": "06/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1199.71,
+    "fecha": "21/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3393.17,
+    "fecha": "28/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1240.13,
+    "fecha": "16/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3633.5,
+    "fecha": "29/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3941.76,
+    "fecha": "05/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1631.51,
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1568.56,
+    "fecha": "13/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1537.74,
+    "fecha": "02/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2159.17,
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2556.08,
+    "fecha": "23/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3185.82,
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1007.66,
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3817.45,
+    "fecha": "13/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3050.16,
+    "fecha": "07/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1567.96,
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1188.86,
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1197.86,
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2052.69,
+    "fecha": "19/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3105.3,
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3680.66,
+    "fecha": "28/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2540.28,
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1953.75,
+    "fecha": "23/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3178.05,
+    "fecha": "31/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3163.59,
+    "fecha": "10/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1544.71,
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1274.99,
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1490.43,
+    "fecha": "27/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1559.78,
+    "fecha": "05/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3366.57,
+    "fecha": "04/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2299.58,
+    "fecha": "14/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3662.11,
+    "fecha": "28/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3193.7,
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1051.41,
+    "fecha": "12/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3004.52,
+    "fecha": "07/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1016.79,
+    "fecha": "06/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3480.38,
+    "fecha": "31/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1027.97,
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2298.91,
+    "fecha": "26/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2863.13,
+    "fecha": "02/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3292.19,
+    "fecha": "05/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3541.74,
+    "fecha": "18/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2978.44,
+    "fecha": "10/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3034.58,
+    "fecha": "29/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1082.3,
+    "fecha": "14/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3988.43,
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2167.63,
+    "fecha": "11/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1290.42,
+    "fecha": "25/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3246.69,
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2325.65,
+    "fecha": "16/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3484.42,
+    "fecha": "16/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1782.69,
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3133.54,
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3389.62,
+    "fecha": "06/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3118.11,
+    "fecha": "08/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2025.37,
+    "fecha": "16/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2225.52,
+    "fecha": "02/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2358.87,
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3423.19,
+    "fecha": "14/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3701.65,
+    "fecha": "01/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2563.16,
+    "fecha": "24/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3579.87,
+    "fecha": "04/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1174.39,
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3828.06,
+    "fecha": "03/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1743.87,
+    "fecha": "10/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1824.47,
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1814.39,
+    "fecha": "05/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2872.18,
+    "fecha": "30/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1271.29,
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2879.03,
+    "fecha": "20/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2305.21,
+    "fecha": "15/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2829.1,
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2813.32,
+    "fecha": "10/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1518.21,
+    "fecha": "08/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2753.91,
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1044.04,
+    "fecha": "03/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2746.9,
+    "fecha": "24/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3680.58,
+    "fecha": "15/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3236.52,
+    "fecha": "20/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1503.28,
+    "fecha": "19/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1894.42,
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2251.48,
+    "fecha": "17/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3659.97,
+    "fecha": "14/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3336.38,
+    "fecha": "07/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2046.88,
+    "fecha": "19/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3035.06,
+    "fecha": "28/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2814.2,
+    "fecha": "03/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2844.67,
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1807.15,
+    "fecha": "30/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2319.54,
+    "fecha": "18/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2484.27,
+    "fecha": "31/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1698.57,
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2606.79,
+    "fecha": "19/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2565.47,
+    "fecha": "30/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3912.62,
+    "fecha": "27/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3979.97,
+    "fecha": "25/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1693.72,
+    "fecha": "25/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1092.77,
+    "fecha": "22/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2477.94,
+    "fecha": "07/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3217.34,
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2233.21,
+    "fecha": "02/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3533.84,
+    "fecha": "11/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1292.29,
+    "fecha": "29/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1281.11,
+    "fecha": "05/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2898.41,
+    "fecha": "23/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3500.69,
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1973.36,
+    "fecha": "12/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1174.18,
+    "fecha": "04/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1876.85,
+    "fecha": "30/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2409.65,
+    "fecha": "21/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3021.32,
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3632.14,
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3989.91,
+    "fecha": "08/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2657.32,
+    "fecha": "01/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2796.12,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1650.59,
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2325.25,
+    "fecha": "25/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3302.96,
+    "fecha": "21/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3275.7,
+    "fecha": "23/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1844.42,
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2560.16,
+    "fecha": "24/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1856.49,
+    "fecha": "26/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3282.59,
+    "fecha": "25/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3528.35,
+    "fecha": "30/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3845.93,
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1534.02,
+    "fecha": "22/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3574.9,
+    "fecha": "08/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2939.28,
+    "fecha": "14/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3312.88,
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1767.95,
+    "fecha": "30/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2641.34,
+    "fecha": "27/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2701.87,
+    "fecha": "19/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3518.61,
+    "fecha": "30/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1929.23,
+    "fecha": "29/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2439.62,
+    "fecha": "22/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3037.59,
+    "fecha": "18/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2677.23,
+    "fecha": "04/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1753.4,
+    "fecha": "11/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2916.53,
+    "fecha": "30/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3033.42,
+    "fecha": "16/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1789.1,
+    "fecha": "29/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2811.12,
+    "fecha": "24/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1096.74,
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3853.57,
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3868.34,
+    "fecha": "05/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2285.9,
+    "fecha": "21/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1781.28,
+    "fecha": "27/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3452.14,
+    "fecha": "25/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3905.44,
+    "fecha": "28/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3251.55,
+    "fecha": "27/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3680.58,
+    "fecha": "17/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1249.67,
+    "fecha": "04/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2043.72,
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3181.25,
+    "fecha": "04/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3501.33,
+    "fecha": "20/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3485.11,
+    "fecha": "22/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3324.14,
+    "fecha": "15/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3313.17,
+    "fecha": "31/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3611.05,
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3630.23,
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2665.22,
+    "fecha": "14/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3276.37,
+    "fecha": "25/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3587.07,
+    "fecha": "21/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2718.79,
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3062.42,
+    "fecha": "16/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3773.61,
+    "fecha": "22/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1630.21,
+    "fecha": "28/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1733.06,
+    "fecha": "29/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3439.85,
+    "fecha": "03/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3461.05,
+    "fecha": "15/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3620.83,
+    "fecha": "09/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1036.01,
+    "fecha": "03/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3682.16,
+    "fecha": "10/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1704.48,
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2538.5,
+    "fecha": "13/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1580.57,
+    "fecha": "19/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3861.35,
+    "fecha": "20/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3483.53,
+    "fecha": "07/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3398,
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3151.87,
+    "fecha": "03/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1203.51,
+    "fecha": "03/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1998.87,
+    "fecha": "04/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2687.69,
+    "fecha": "29/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1049.81,
+    "fecha": "29/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1820.43,
+    "fecha": "04/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1981.13,
+    "fecha": "26/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2873.5,
+    "fecha": "10/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2714.73,
+    "fecha": "26/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3170.01,
+    "fecha": "29/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3977.23,
+    "fecha": "23/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3155.87,
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2559.64,
+    "fecha": "19/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3120.28,
+    "fecha": "24/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2823.85,
+    "fecha": "05/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1525,
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1996.75,
+    "fecha": "19/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1888.81,
+    "fecha": "24/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2811.42,
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3476.43,
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1915.39,
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2772.52,
+    "fecha": "06/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1279.9,
+    "fecha": "02/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2347.67,
+    "fecha": "03/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1840.31,
+    "fecha": "13/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2092.75,
+    "fecha": "04/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1189.61,
+    "fecha": "10/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3978.22,
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3450.48,
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3812.24,
+    "fecha": "22/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1852.39,
+    "fecha": "29/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1071.48,
+    "fecha": "03/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2736.39,
+    "fecha": "09/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1722.64,
+    "fecha": "06/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2489.14,
+    "fecha": "27/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2792.79,
+    "fecha": "22/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3747.47,
+    "fecha": "03/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1194.94,
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2719.92,
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3417.57,
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2656.76,
+    "fecha": "23/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3363.59,
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1720.54,
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3801.89,
+    "fecha": "25/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3518.17,
+    "fecha": "01/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3005.29,
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3534.19,
+    "fecha": "03/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1471.95,
+    "fecha": "05/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3884.98,
+    "fecha": "19/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3312.18,
+    "fecha": "30/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1971.14,
+    "fecha": "13/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3573.02,
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3978.22,
+    "fecha": "22/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3287.48,
+    "fecha": "21/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1487.47,
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2678.88,
+    "fecha": "06/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3324.6,
+    "fecha": "23/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3249.11,
+    "fecha": "11/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1826.45,
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1116.35,
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2372.6,
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1312.2,
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3461.23,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3354.95,
+    "fecha": "30/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2083.18,
+    "fecha": "17/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2130.85,
+    "fecha": "12/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2926.32,
+    "fecha": "18/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2866.74,
+    "fecha": "27/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2598.63,
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3368.72,
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2774.31,
+    "fecha": "13/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3912.8,
+    "fecha": "21/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1999.75,
+    "fecha": "07/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2834.43,
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1933.36,
+    "fecha": "03/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1668.79,
+    "fecha": "14/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1997.7,
+    "fecha": "13/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2897.67,
+    "fecha": "07/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1841.32,
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2329.74,
+    "fecha": "07/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3802.65,
+    "fecha": "04/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3419.76,
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3635.8,
+    "fecha": "06/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3042.12,
+    "fecha": "12/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2794.19,
+    "fecha": "05/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1022.26,
+    "fecha": "21/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2605.67,
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1469.09,
+    "fecha": "18/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3363.82,
+    "fecha": "27/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3203.28,
+    "fecha": "09/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3520.27,
+    "fecha": "15/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3009,
+    "fecha": "23/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2469.91,
+    "fecha": "06/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1591.05,
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3743.7,
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2528.02,
+    "fecha": "17/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2901.95,
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1251.53,
+    "fecha": "30/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3025.34,
+    "fecha": "31/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2892.04,
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2327.76,
+    "fecha": "29/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3563.47,
+    "fecha": "27/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1874.25,
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2206.46,
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3514.56,
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3812.03,
+    "fecha": "12/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3205.62,
+    "fecha": "01/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2122.73,
+    "fecha": "18/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2353.14,
+    "fecha": "24/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2671.01,
+    "fecha": "21/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1077.99,
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2819.76,
+    "fecha": "05/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1980.83,
+    "fecha": "10/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2093.11,
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1420.14,
+    "fecha": "11/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3614.39,
+    "fecha": "29/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1385.95,
+    "fecha": "10/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1163.01,
+    "fecha": "18/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3867.95,
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2250.17,
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1601.89,
+    "fecha": "22/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3185.72,
+    "fecha": "01/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1778.25,
+    "fecha": "10/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3137.1,
+    "fecha": "12/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2806.92,
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3188.26,
+    "fecha": "17/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3146.79,
+    "fecha": "16/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1641.12,
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2614.75,
+    "fecha": "03/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2573.91,
+    "fecha": "15/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2897.09,
+    "fecha": "23/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1088.46,
+    "fecha": "17/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1139.41,
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2269.38,
+    "fecha": "13/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2618.9,
+    "fecha": "03/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1481.99,
+    "fecha": "03/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2303.62,
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3702.89,
+    "fecha": "20/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1203.07,
+    "fecha": "21/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1924.49,
+    "fecha": "23/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2731.17,
+    "fecha": "20/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2357.29,
+    "fecha": "02/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1820.67,
+    "fecha": "25/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3226.26,
+    "fecha": "11/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1543.1,
+    "fecha": "17/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3719.32,
+    "fecha": "28/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3023.65,
+    "fecha": "20/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2323.7,
+    "fecha": "08/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3896.75,
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3187.2,
+    "fecha": "17/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3966.35,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1502.55,
+    "fecha": "12/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1988.35,
+    "fecha": "20/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2574.08,
+    "fecha": "19/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2008.73,
+    "fecha": "13/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2051.49,
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2166.36,
+    "fecha": "01/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1985.42,
+    "fecha": "03/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3678.84,
+    "fecha": "28/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1152.16,
+    "fecha": "30/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3072.04,
+    "fecha": "11/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2131.15,
+    "fecha": "12/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3000.15,
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1980.7,
+    "fecha": "24/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1983.9,
+    "fecha": "28/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1055.27,
+    "fecha": "15/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2374.7,
+    "fecha": "30/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3662.6,
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3837.65,
+    "fecha": "31/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1674.4,
+    "fecha": "12/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3140.53,
+    "fecha": "21/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3760.91,
+    "fecha": "19/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1388.42,
+    "fecha": "24/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1104.44,
+    "fecha": "02/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2007.71,
+    "fecha": "02/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2823.09,
+    "fecha": "05/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2856.48,
+    "fecha": "28/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2855.15,
+    "fecha": "13/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1412.56,
+    "fecha": "26/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1075.7,
+    "fecha": "28/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2503.42,
+    "fecha": "17/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3177.12,
+    "fecha": "14/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3113.18,
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2345.66,
+    "fecha": "15/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3007.84,
+    "fecha": "06/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1336.69,
+    "fecha": "25/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3658.83,
+    "fecha": "08/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2970.39,
+    "fecha": "27/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1886.83,
+    "fecha": "09/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1985.95,
+    "fecha": "08/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1812.29,
+    "fecha": "22/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2710.29,
+    "fecha": "30/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3476.57,
+    "fecha": "26/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1597.91,
+    "fecha": "17/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1236.14,
+    "fecha": "26/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1766.46,
+    "fecha": "11/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2405.29,
+    "fecha": "06/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1083.5,
+    "fecha": "07/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3964.39,
+    "fecha": "13/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3640.39,
+    "fecha": "30/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2068.35,
+    "fecha": "25/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3669.48,
+    "fecha": "13/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2515.62,
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3086.35,
+    "fecha": "05/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1994.9,
+    "fecha": "22/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3499.75,
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3196.71,
+    "fecha": "27/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3308.68,
+    "fecha": "31/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1677.96,
+    "fecha": "20/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1546.27,
+    "fecha": "19/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3812.46,
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1402.87,
+    "fecha": "03/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2612.08,
+    "fecha": "07/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1733.53,
+    "fecha": "16/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1062.46,
+    "fecha": "03/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1976.77,
+    "fecha": "16/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3411.74,
+    "fecha": "28/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2926.74,
+    "fecha": "27/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2963.1,
+    "fecha": "17/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3110.12,
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3081.2,
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2677.52,
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3242.76,
+    "fecha": "27/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1724.25,
+    "fecha": "17/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3040.4,
+    "fecha": "21/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3883.49,
+    "fecha": "21/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2071.09,
+    "fecha": "19/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2546.91,
+    "fecha": "05/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3359.79,
+    "fecha": "14/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3700.57,
+    "fecha": "27/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3343.34,
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3032.62,
+    "fecha": "07/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2373.51,
+    "fecha": "30/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2965.74,
+    "fecha": "23/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1989.74,
+    "fecha": "28/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2323.65,
+    "fecha": "05/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3895.79,
+    "fecha": "12/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1407.12,
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1158.97,
+    "fecha": "05/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3898.47,
+    "fecha": "20/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3521.34,
+    "fecha": "05/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2874.11,
+    "fecha": "28/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1710.65,
+    "fecha": "27/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3939.95,
+    "fecha": "14/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2416.07,
+    "fecha": "25/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3720.56,
+    "fecha": "14/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2848.27,
+    "fecha": "08/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2083.68,
+    "fecha": "05/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1730.15,
+    "fecha": "04/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1639.36,
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3011.95,
+    "fecha": "08/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1948.46,
+    "fecha": "04/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2734.98,
+    "fecha": "30/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2758.5,
+    "fecha": "03/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2685.9,
+    "fecha": "26/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3484.96,
+    "fecha": "26/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1067.54,
+    "fecha": "27/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1356.11,
+    "fecha": "17/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2224.94,
+    "fecha": "18/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3499.26,
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1744.9,
+    "fecha": "02/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2563.15,
+    "fecha": "09/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1400.53,
+    "fecha": "30/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2165.48,
+    "fecha": "07/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1165.77,
+    "fecha": "04/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3006.65,
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1440.31,
+    "fecha": "27/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2090.86,
+    "fecha": "18/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1279.94,
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3655.43,
+    "fecha": "04/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3612.83,
+    "fecha": "05/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2385.85,
+    "fecha": "13/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1778.96,
+    "fecha": "08/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2438.54,
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2003.93,
+    "fecha": "07/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3473.73,
+    "fecha": "03/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3366.99,
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3602.88,
+    "fecha": "08/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3916.46,
+    "fecha": "26/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2204.88,
+    "fecha": "24/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2326.82,
+    "fecha": "20/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1749.47,
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1119.91,
+    "fecha": "08/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2409.81,
+    "fecha": "18/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1796.45,
+    "fecha": "08/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3646.62,
+    "fecha": "02/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3524.46,
+    "fecha": "05/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1113.45,
+    "fecha": "18/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1935.42,
+    "fecha": "01/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1184.75,
+    "fecha": "07/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2023.07,
+    "fecha": "02/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1926.41,
+    "fecha": "15/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2241.86,
+    "fecha": "22/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1978.03,
+    "fecha": "19/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2373.6,
+    "fecha": "20/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2819.37,
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2558.82,
+    "fecha": "03/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2276.06,
+    "fecha": "07/02/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1526,
+    "fecha": "07/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3929.02,
+    "fecha": "18/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3735.85,
+    "fecha": "13/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3739.88,
+    "fecha": "05/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2551.35,
+    "fecha": "04/07/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1885.03,
+    "fecha": "21/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3172.72,
+    "fecha": "02/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3101.92,
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1035.72,
+    "fecha": "23/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2922.11,
+    "fecha": "30/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2960.93,
+    "fecha": "09/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1463.02,
+    "fecha": "10/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1034.61,
+    "fecha": "29/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1427.54,
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1853.53,
+    "fecha": "23/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2804.17,
+    "fecha": "04/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3636.71,
+    "fecha": "22/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2969.51,
+    "fecha": "26/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2132.77,
+    "fecha": "04/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1482.26,
+    "fecha": "04/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2504.54,
+    "fecha": "10/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3227.04,
+    "fecha": "05/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1201.13,
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2119.24,
+    "fecha": "09/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2454.9,
+    "fecha": "02/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1146,
+    "fecha": "23/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3867.18,
+    "fecha": "30/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1393.33,
+    "fecha": "11/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1370.32,
+    "fecha": "17/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1780.06,
+    "fecha": "13/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3968.31,
+    "fecha": "23/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2614.79,
+    "fecha": "31/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2036.61,
+    "fecha": "25/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3499.25,
+    "fecha": "14/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1675.19,
+    "fecha": "05/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2347.54,
+    "fecha": "24/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3049.94,
+    "fecha": "28/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3806.12,
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2494.06,
+    "fecha": "29/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1931.11,
+    "fecha": "01/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2724.31,
+    "fecha": "02/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3396.59,
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3760.29,
+    "fecha": "20/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1708.93,
+    "fecha": "28/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1527.01,
+    "fecha": "19/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2017.56,
+    "fecha": "12/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2884.92,
+    "fecha": "23/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1335.03,
+    "fecha": "08/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1157.05,
+    "fecha": "15/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2807.2,
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2076.66,
+    "fecha": "16/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1949.96,
+    "fecha": "25/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3242.53,
+    "fecha": "22/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3610.29,
+    "fecha": "05/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1039.22,
+    "fecha": "16/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1266.16,
+    "fecha": "31/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1402.34,
+    "fecha": "25/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1624.59,
+    "fecha": "11/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3551.62,
+    "fecha": "06/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3196.92,
+    "fecha": "21/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2712.95,
+    "fecha": "07/12/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3285.78,
+    "fecha": "16/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1685.46,
+    "fecha": "16/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1967.26,
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3341.52,
+    "fecha": "11/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1100.69,
+    "fecha": "12/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2034.84,
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2342.8,
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3009.61,
+    "fecha": "23/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3269.74,
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1423.58,
+    "fecha": "02/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2571.56,
+    "fecha": "01/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1664.14,
+    "fecha": "07/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2696.6,
+    "fecha": "15/01/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2204.27,
+    "fecha": "29/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2553.33,
+    "fecha": "15/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1605.05,
+    "fecha": "28/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2066.62,
+    "fecha": "01/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1344.07,
+    "fecha": "22/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1474.78,
+    "fecha": "21/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3921.76,
+    "fecha": "31/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2659.08,
+    "fecha": "05/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2639.47,
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1415.17,
+    "fecha": "03/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1722.88,
+    "fecha": "05/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2089.87,
+    "fecha": "21/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3699.03,
+    "fecha": "25/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3962.59,
+    "fecha": "27/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1493.41,
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1496.81,
+    "fecha": "16/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2071.44,
+    "fecha": "10/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1357.64,
+    "fecha": "26/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2321.31,
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3904.47,
+    "fecha": "25/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1212.32,
+    "fecha": "18/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1802.14,
+    "fecha": "17/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3126.59,
+    "fecha": "31/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3936.99,
+    "fecha": "01/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2859.42,
+    "fecha": "03/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2416.23,
+    "fecha": "10/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2869.44,
+    "fecha": "04/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2876.71,
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3606.84,
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3072.12,
+    "fecha": "04/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1212.89,
+    "fecha": "05/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2218.06,
+    "fecha": "03/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2815.74,
+    "fecha": "08/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2167.11,
+    "fecha": "31/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2352.02,
+    "fecha": "12/07/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3107.41,
+    "fecha": "26/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3379.55,
+    "fecha": "24/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2270.4,
+    "fecha": "01/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2080.43,
+    "fecha": "20/04/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3505.91,
+    "fecha": "08/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2739.82,
+    "fecha": "22/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1857.95,
+    "fecha": "04/10/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1955.67,
+    "fecha": "22/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2175.81,
+    "fecha": "03/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2200.82,
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3389.35,
+    "fecha": "22/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2596.65,
+    "fecha": "07/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3686.01,
+    "fecha": "24/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3215.87,
+    "fecha": "12/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3791.79,
+    "fecha": "27/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1749.14,
+    "fecha": "17/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2144.61,
+    "fecha": "02/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3054.86,
+    "fecha": "10/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1314.82,
+    "fecha": "24/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3236.94,
+    "fecha": "20/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2233.49,
+    "fecha": "20/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3158.43,
+    "fecha": "15/04/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1250.53,
+    "fecha": "28/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3331.17,
+    "fecha": "01/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1913.7,
+    "fecha": "16/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2676.1,
+    "fecha": "28/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1035.14,
+    "fecha": "27/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2242.61,
+    "fecha": "08/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2182.03,
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1576.5,
+    "fecha": "18/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3041.42,
+    "fecha": "28/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3229.57,
+    "fecha": "30/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3046.72,
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3174.94,
+    "fecha": "06/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1922.45,
+    "fecha": "29/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2179.6,
+    "fecha": "03/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2429.52,
+    "fecha": "08/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2376.5,
+    "fecha": "24/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3890.49,
+    "fecha": "24/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1808.74,
+    "fecha": "14/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1764.92,
+    "fecha": "03/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1296.24,
+    "fecha": "02/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1448.08,
+    "fecha": "27/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2132.99,
+    "fecha": "01/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1598.67,
+    "fecha": "01/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1584.93,
+    "fecha": "18/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2554.62,
+    "fecha": "14/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1760.38,
+    "fecha": "20/03/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3685.64,
+    "fecha": "13/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2424.61,
+    "fecha": "10/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3779.35,
+    "fecha": "29/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2859.01,
+    "fecha": "26/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1626.09,
+    "fecha": "01/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3319.93,
+    "fecha": "08/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1547.89,
+    "fecha": "26/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2693.99,
+    "fecha": "07/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3812.53,
+    "fecha": "19/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3341.17,
+    "fecha": "16/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2072.48,
+    "fecha": "14/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1885.76,
+    "fecha": "03/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 3752.21,
+    "fecha": "19/07/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2010.27,
+    "fecha": "20/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2712.41,
+    "fecha": "29/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2519.29,
+    "fecha": "09/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2718.31,
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3506.26,
+    "fecha": "17/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2012.94,
+    "fecha": "10/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2727,
+    "fecha": "01/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1252.49,
+    "fecha": "22/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1283.2,
+    "fecha": "09/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3901.66,
+    "fecha": "09/03/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1041.62,
+    "fecha": "27/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3712.85,
+    "fecha": "25/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3251.51,
+    "fecha": "30/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3552.12,
+    "fecha": "13/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3618.9,
+    "fecha": "01/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3073.12,
+    "fecha": "12/08/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1855.55,
+    "fecha": "23/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2324.67,
+    "fecha": "28/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1250.26,
+    "fecha": "10/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3107.01,
+    "fecha": "15/05/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1803.92,
+    "fecha": "23/01/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2252.44,
+    "fecha": "04/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1297.75,
+    "fecha": "14/10/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1059.4,
+    "fecha": "27/11/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2116.52,
+    "fecha": "11/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3625.34,
+    "fecha": "20/06/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1306.84,
+    "fecha": "21/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2873.26,
+    "fecha": "11/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2891.96,
+    "fecha": "27/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2535.07,
+    "fecha": "06/12/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1519.86,
+    "fecha": "22/04/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2489.98,
+    "fecha": "25/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3551.87,
+    "fecha": "08/09/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3877.32,
+    "fecha": "29/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1501.57,
+    "fecha": "07/05/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1851.22,
+    "fecha": "30/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1522.57,
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3237.78,
+    "fecha": "10/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2717.98,
+    "fecha": "05/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2102.34,
+    "fecha": "10/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2950.12,
+    "fecha": "18/02/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2125.9,
+    "fecha": "10/10/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3047.98,
+    "fecha": "30/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1302.05,
+    "fecha": "04/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1579.11,
+    "fecha": "18/11/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 1430.18,
+    "fecha": "26/08/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3401.07,
+    "fecha": "18/11/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2072.76,
+    "fecha": "25/05/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 2624.04,
+    "fecha": "09/06/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1394.43,
+    "fecha": "22/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3681.37,
+    "fecha": "22/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2482.83,
+    "fecha": "01/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2951.69,
+    "fecha": "05/01/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1912.3,
+    "fecha": "02/03/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2292.13,
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1066.08,
+    "fecha": "11/04/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2381.37,
+    "fecha": "21/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3239.73,
+    "fecha": "06/09/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 1181.09,
+    "fecha": "13/07/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2553.6,
+    "fecha": "24/06/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2469.57,
+    "fecha": "07/12/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3185.13,
+    "fecha": "18/01/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 2263.61,
+    "fecha": "24/11/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3943.08,
+    "fecha": "19/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2744.47,
+    "fecha": "01/10/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3865.45,
+    "fecha": "09/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2958.88,
+    "fecha": "14/02/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 3681.25,
+    "fecha": "11/06/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3801.69,
+    "fecha": "05/02/2021"
+  },
+  {
+    "estado": "Aprobado",
+    "total": 3491.75,
+    "fecha": "28/09/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 1711.23,
+    "fecha": "21/09/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 2500.18,
+    "fecha": "26/03/2021"
+  },
+  {
+    "estado": "Rechazado",
+    "total": 3237.47,
+    "fecha": "19/05/2021"
+  },
+  {
+    "estado": "Autorizado",
+    "total": 2566.26,
+    "fecha": "21/08/2021"
+  },
+  {
+    "estado": "Liquidado",
+    "total": 1089.36,
+    "fecha": "27/10/2021"
+  }
+]
